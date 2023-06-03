@@ -1,0 +1,15 @@
+# For .postgres_env
+
+POSTGRES_USER=
+POSTGRES_PASSWORD=
+POSTGRES_DB=
+
+# For .app_env
+
+DB_ENGINE=
+DB_NAME= # Must be the same as POSTGRES_DB
+DB_HOST=
+DB_PORT=
+DB_USER= # Must be the same as POSTGRES_USER
+DB_PASSWORD= # Must be the same as POSTGRES_PASSWORD
+
